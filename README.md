@@ -1,2 +1,3 @@
-### Some Basic configurations for tinker
-For details, refer to each branches
+### Network
+- port redirection for ssh login to zynq board
+- tcp/udp forwarding for network access on zynq  board
