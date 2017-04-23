@@ -1,2 +1,2 @@
-### Some Basic configurations for tinker
+### Some basic configurations for tinker
 For details, refer to each branches
